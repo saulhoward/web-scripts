@@ -1,4 +1,4 @@
-web-scripts
+Web scripts
 ===========
 
-Simple scripts for web projects
+Simple scripts for setting up and maintaining web projects.
